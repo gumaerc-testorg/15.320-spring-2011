@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes from selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ LECTURE NOTES
 What is strategic organizational design?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit15_320s11_lec01))
+({{% resource_link 875f1f29-0025-a225-276c-b420e5322010 "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +53,7 @@ What is strategic organizational design?
 Case: eBay
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_320s11_lec02))
+({{% resource_link d5c36858-1202-cbf6-4cc1-9800c526af55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Case: eBay
 Why are things changing?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec03))
+({{% resource_link 58b0fe11-8e3d-aebc-d74b-57a5a6cfa046 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Case: InnoCentive
 Basic organizational designs
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec05))
+({{% resource_link bd53cbbd-e1ff-1187-415f-44891b41092d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +185,7 @@ Case: Siemens
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec10))
+({{% resource_link 539ade62-c175-8b75-6c38-5d8a987c6087 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +221,7 @@ Case: Charlotte Beers at Ogilvy & Mather
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_320s11_lec12))
+({{% resource_link 2a5ddf34-ad5b-ad30-c0d4-6921ad1d8fe8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Case: Wikipedia
 How are things changing?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5MB]({{< baseurl >}}/resources/mit15_320s11_lec14))
+({{% resource_link 1dfde696-6be6-d122-3076-9eb5c8014a5c "PDF - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Cases: W. L. Gore and others
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_320s11_lec16))
+({{% resource_link f5f77a54-98b6-b99f-c573-5cfa0a65b716 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +305,7 @@ Cases: Intel scenario, Cambrian House
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec18))
+({{% resource_link 3c087c5d-cd9c-9e18-3927-6824482ade77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -393,7 +395,7 @@ Class conclusion
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit15_320s11_lec24))
+({{% resource_link 96c920ac-4320-c4f7-74d5-ea098842df61 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
