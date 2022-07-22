@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times, readings, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: aca71e36-7f13-5bae-8306-f900a9bd77ab
 ---
@@ -27,7 +31,7 @@ The following book is required for the course:
 
 Malone, Thomas W. _The Future of Work_. Harvard Business School Press, 2004. ISBN: 9781591391258.
 
-Additional readings are also required and cited on the [Readings]({{< baseurl >}}/pages/readings) page. These required readings include excerpts from the following books, although reading these books in their entirety is also highly recommended:
+Additional readings are also required and cited on the {{% resource_link 5d7531ca-3b0f-ef3f-b5fd-112a470f6ef4 "Readings" %}} page. These required readings include excerpts from the following books, although reading these books in their entirety is also highly recommended:
 
 Kates, Amy, and Jay R. Galbraith. _Designing Your Organization_. Jossey-Bass, 2007. ISBN: 9780787994945.
 
@@ -54,7 +58,7 @@ You may, of course, discuss the readings with other students, but the papers are
 
 ### Team project
 
-Information on the team project can be found in the [Projects]({{< baseurl >}}/pages/projects) section.
+Information on the team project can be found in the {{% resource_link 4c4fcbab-6860-d27c-bd7a-d4422e8ed725 "Projects" %}} section.
 
 Grading
 -------
