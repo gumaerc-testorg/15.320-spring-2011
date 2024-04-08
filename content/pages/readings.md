@@ -92,7 +92,7 @@ Why are things changing?
 
 Tapscott, Don, and Anthony D. Williams. "Wikinomics." Chapter 1 in _Wikinomics: How Mass Collaboration Changes Everything_. Portfolio/Penguin, 2006. ISBN: 9781591841388.
 
-Stroll, Clifford. "[The Internet? Bah!](http://paleofuture.gizmodo.com/the-internet-bah-1995-512627689)" _Newsweek_, February 26, 1995.
+Stroll, Clifford. "{{% resource_link "16b81f9a-ccc0-4553-8142-ddc9f941b978" "The Internet? Bah!" %}}" _Newsweek_, February 26, 1995.
 
 ### Optional
 
@@ -186,7 +186,7 @@ Edelman, Benjamin, and Thomas R. Eisenmann. "Google Inc." Harvard Business Schoo
 
 ### Optional
 
-Kane, Tim. "[Why Our Best Officers are Leaving](http://www.theatlantic.com/magazine/archive/2011/01/why-our-best-officers-are-leaving/8346/)." _The Atlantic_, January/February 2011.
+Kane, Tim. "{{% resource_link "54939d4d-3a65-40bb-91f3-84e5ad8ebede" "Why Our Best Officers are Leaving" %}}." _The Atlantic_, January/February 2011.
 
 
 {{< tdclose >}}
@@ -234,7 +234,7 @@ Case: AES
 
 "Loosening Up the Hierarchy." Chapter 4 in \[Malone\].
 
-Green, Heather. "[How Meetup Tore Up the Rule Book](http://www.businessweek.com/magazine/content/08_24/b4088088652060.htm)." _Business Week_, June 5, 2008.
+Green, Heather. "{{% resource_link "422df238-3a57-4b14-a3ed-43e0e931be72" "How Meetup Tore Up the Rule Book" %}}." _Business Week_, June 5, 2008.
 
 ### Cases
 
@@ -336,7 +336,7 @@ Case: Wikipedia
 {{< tdopen >}}
 
 
-Poe, Marshall. "[The Hive](http://www.theatlantic.com/magazine/archive/2006/09/the-hive/5118/)." _The Atlantic_, September 2006.
+Poe, Marshall. "{{% resource_link "26ab4ddd-9fef-4d23-9b3d-9355a7577720" "The Hive" %}}." _The Atlantic_, September 2006.
 
 ### Case
 
@@ -356,7 +356,7 @@ How are things changing?
 {{< tdopen >}}
 
 
-Malone, Thomas W., Robert Laubacher, and Chrysanthos Dellarocas. "[The Collective Intelligence Genome](http://sloanreview.mit.edu/the-magazine/2010-spring/51303/the-collective-intelligence-genome/)." _MIT Sloan Management Review_ 51, no. 3 (2010): 21-31.
+Malone, Thomas W., Robert Laubacher, and Chrysanthos Dellarocas. "{{% resource_link "7b458655-343c-49ef-bc9b-d33d1427f442" "The Collective Intelligence Genome" %}}." _MIT Sloan Management Review_ 51, no. 3 (2010): 21-31.
 
 Surowiecki, James. Introduction and Chapter 1 in _The Wisdom of Crowds_. Anchor/Random House, 2005. ISBN: 9780385721707.
 
@@ -406,9 +406,9 @@ Cases: W. L. Gore and others
 
 Hamel, Gary. "Building An Innovation Democracy." Chapter 5 in _The Future of Management_. Harvard Business School Press, 2007. ISBN: 9781422102503.
 
-Colchester, Max. "[One Team Gets 26,000 Owners—All With a Vote on Who Plays](http://online.wsj.com/article/SB119922623784960703.html)." _The Wall Street Journal_, January 2, 2008.
+Colchester, Max. "{{% resource_link "91bb934f-a21e-4cdb-95b8-dcb387051bdb" "One Team Gets 26,000 Owners—All With a Vote on Who Plays" %}}." _The Wall Street Journal_, January 2, 2008.
 
-Hempel, Jessi. "[Big Blue Brainstorm](http://www.businessweek.com/stories/2006-08-06/big-blue-brainstorm)." _Business Week_, August 7, 2006.
+Hempel, Jessi. "{{% resource_link "54611b8f-cfdb-41b9-9ef2-ee3928b6aaf6" "Big Blue Brainstorm" %}}." _Business Week_, August 7, 2006.
 
 Howe, Jeff. Excerpt from _Crowdsourcing: Why the Power of the Crowd is Driving the Future of Business_. Crown Business, 2008, pp. 223-233. ISBN: 9780307396204.
 
@@ -566,7 +566,7 @@ Class conclusion
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kelly, Kevin. "[We Are the Web](http://www.wired.com/wired/archive/13.08/tech.html)." _Wired Magazine_, August 2005.
+Kelly, Kevin. "{{% resource_link "de580b63-3f28-4017-b3d4-9e3b295326ff" "We Are the Web" %}}." _Wired Magazine_, August 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
