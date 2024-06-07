@@ -53,7 +53,7 @@ Case: eBay
 Case: InnoCentive
 {{< tdclose >}}
 {{< tdopen >}}
-For background, you are encouraged to go to the {{% resource_link "655345b6-130e-419a-ab26-158e74236a9d" "InnoCentive website" %}}, register as a solver, and try to identify one challenge you might find interesting.
+For background, you are encouraged to go to the [InnoCentive website](http://www.innocentive.com), register as a solver, and try to identify one challenge you might find interesting.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,8 +102,8 @@ Case: Google Inc.
 
 _Hint_: Additional information about Google's organizational structure is available from the following websites:
 
-1.  {{% resource_link "97681d4a-73e2-4bbd-97d2-3e805c56214b" "Google's official list of their management team members, including titles" %}}
-2.  {{% resource_link "7c0a3fe0-f59b-40da-b156-4db77f277e5a" "The unofficial organization chart of Google on the CogMap website" %}}. This version is definitely not completely accurate, but it will give you at least some sense of what the Google org chart looks like.
+1.  [Google's official list of their management team members, including titles](http://www.google.com/corporate/execs.html)
+2.  [The unofficial organization chart of Google on the CogMap website](http://www.cogmap.com/chart/google). This version is definitely not completely accurate, but it will give you at least some sense of what the Google org chart looks like.
 
 
 {{< tdclose >}}
